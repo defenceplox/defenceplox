@@ -1,6 +1,6 @@
 ### Hi, I'm Liam 👋
 
-Freelance web developer based in Bath, UK — running **C Stick Arcade LTD** and working as a Microsoft Market Manager at **Mcurrach**.
+Web dev and vibe coder.
 
 I like building small, self-hosted tools that fix a specific annoyance — media automation, smart-TV debloating, retro recompilation, and rescuing old hardware.
 
